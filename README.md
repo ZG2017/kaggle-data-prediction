@@ -1,5 +1,5 @@
 # kaggle-data-prediction
-
+Apply different prediction model on kaggle poll data to prediction the personal yearly salary.
 * pipeline:
 1. data clearing, deal with missing value, categorical data to numiercial data and so on.
 2. dimension reduces: using PCA to reduce the dimension of the data to save the training time.
